@@ -1,4 +1,7 @@
-# MERNG Stack
+# Server for Social App
+This repository is for a social app project which can be located here: https://github.com/BonkHo/social-app.
 
-This project was created in order to understand the MERNG stack.
-MongoDB (Atlas), Express, React, Node.js, GraphQL (Apollo)
+## Tools Used
+- MongoDB
+- Express
+- Node.js
