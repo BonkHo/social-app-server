@@ -14,7 +14,7 @@ const server = new ApolloServer({
 	context: ({ req }) => ({ req, pubsub }),
 });
 
-const PORT = process.env.port || 5000;
+const PORT = process.env.PORT || 5000;
 // Uses mongoose to connect the MongoDB instance to the Apollo server
 mongoose
 	.connect(MONGODB, {
